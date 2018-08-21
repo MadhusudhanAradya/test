@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">msa</string>
+
+    <string-array name="operations">
+        <item>add</item>
+        <item>sub</item>
+        <item>mul</item>
+        <item>div</item>
+    </string-array>
+</resources>
