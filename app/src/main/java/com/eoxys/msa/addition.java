@@ -64,6 +64,7 @@ public class addition extends AppCompatActivity {
         {
             System.out.println("Entered value is not a Number");
             System.out.println("2 commit");
+            System.out.println("commit again");
             Toast.makeText(addition.this,"Entered value is not a Number", Toast.LENGTH_LONG).show();
 
         }
